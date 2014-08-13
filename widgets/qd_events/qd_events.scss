@@ -1,0 +1,24 @@
+// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+$background-color:  #389992;
+
+$title-color:       rgba(255, 255, 255, 0.5);
+$events-count-color:    rgba(255, 255, 255, 0.9);
+
+.widget-qd-events {
+  background-color: $background-color;
+
+  .title {
+    color: $title-color;
+  }
+
+  .events-count {
+    color: $events-count-color;
+    font-size: 60px;
+  }
+
+  .updated-at {
+    color: rgba(255, 255, 255, 0.3);
+  }
+}

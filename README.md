@@ -1,1 +1,4 @@
-Check out http://shopify.github.com/dashing for more information.
+### QuantifiedDev Monitoring Dashboard
+
+
+Makes use of awesome http://dashing.io/ dashboard framework.
